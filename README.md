@@ -13,7 +13,7 @@ The project aims to classify anesthesia depth using convolutional neural network
 
 - **`all_vs_all.ipynb`**: Code for the all-vs-all classification task. Results used in the thesis are further processed in `results.ipynb`.
 - **`models/`**: Contains saved models as `.keras` files.
-- **`training_data/`**: Directory for processed training data.
+- **`test_data/`**: Directory for processed test data used for the final model evaluation.
 - **`data/`**: Contains the initial raw data files (`.mat` format).
 - **`oVo/`**: Directory for one-vs-one and one-vs-all classification.
 
